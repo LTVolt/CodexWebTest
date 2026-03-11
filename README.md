@@ -28,3 +28,9 @@ Abrir `http://127.0.0.1:8000/`.
 python manage.py test
 python manage.py check
 ```
+
+
+## Documentação adicional
+
+- Fase 1 setup: `docs/fase-1-setup.md`
+- Fase 2 modelação: `docs/fase-2-modelacao.md`
